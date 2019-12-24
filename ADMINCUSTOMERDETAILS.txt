@@ -1,0 +1,9 @@
+FOR ADMIN
+
+username: admin
+password: 1234
+
+FOR CUSTOMER
+customer: sheikh
+passworkd: 1234
+
